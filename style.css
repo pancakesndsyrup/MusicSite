@@ -1,0 +1,25 @@
+body{
+    background-image: url("");
+    
+}
+
+h1{
+    text-align: center;
+    color: brown;
+}
+
+h2{
+    text-align: center;
+    color: rgb(70, 0, 0);
+}
+
+p   {
+    text-align: center;
+    background: rgba(132, 137, 211, 0.5);
+    
+}
+
+table, th, td {
+    border: 1px solid black;
+    
+}
