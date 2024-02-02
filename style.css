@@ -1,25 +1,31 @@
 body{
-    background-image: url("");
+    background-image: url("https://i.pinimg.com/originals/14/32/82/1432823b0f85b3820da2b59daddbe857.jpg");
     
 }
 
 h1{
     text-align: center;
-    color: brown;
+    color: rgb(238, 18, 18);
 }
 
 h2{
     text-align: center;
-    color: rgb(70, 0, 0);
+    color: rgb(241, 116, 116);
 }
 
 p   {
     text-align: center;
-    background: rgba(132, 137, 211, 0.5);
+    background: rgba(153, 163, 223, 0.5);
     
 }
 
 table, th, td {
-    border: 1px solid black;
+    border: 5px solid black;
     
+}
+
+table {
+    background-color: rgb(185, 93, 93);
+
+    border: 5 px solid black;
 }
